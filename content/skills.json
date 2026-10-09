@@ -1,0 +1,10 @@
+[
+  { "name": "HTML", "category": "web", "description": "Semantic, accessible markup; used to build this portfolio." },
+  { "name": "CSS", "category": "web", "description": "Responsive layouts, design tokens and dark/light theming." },
+  { "name": "JavaScript", "category": "web", "description": "Interactive features such as the theme switch and project filters on this site." },
+  { "name": "MATLAB", "category": "programming", "description": "Used in coursework for numerical computation and engineering analysis." },
+  { "name": "MATLAB", "category": "tools", "description": "Used in coursework for numerical computation and engineering analysis." },
+  { "name": "Electrical Circuits", "category": "engineering", "description": "Core coursework: circuit analysis fundamentals." },
+  { "name": "Electrical Machines", "category": "engineering", "description": "Core coursework: operating principles of electrical machines." },
+  { "name": "Electronics", "category": "engineering", "description": "Core coursework: electronic devices and circuits." }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "maruf-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio of Md. Maruf Hossen",
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000",
+    "check": "node scripts/check.mjs",
+    "images": "python3 scripts/images.py"
+  }
+}

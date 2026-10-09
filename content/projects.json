@@ -1,0 +1,11 @@
+[
+  {
+    "id": "personal-portfolio",
+    "title": "Personal Portfolio Website",
+    "category": "web",
+    "summary": "A fast, accessible, responsive portfolio with dark/light themes, filters and a contact form.",
+    "tags": ["HTML", "CSS", "JavaScript", "GitHub Pages"],
+    "links": {},
+    "year": 2026
+  }
+]

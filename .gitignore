@@ -1,0 +1,25 @@
+# Identity documents: NEVER commit or publish
+ID-card*
+id-card*
+nid-*
+nid_*
+*.nid.*
+
+# Dependencies and tooling output
+node_modules/
+.lighthouseci/
+coverage/
+_site/
+dist/
+
+# Environment and secrets
+.env
+.env.*
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.log

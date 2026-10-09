@@ -1,0 +1,74 @@
+# Portfolio
+
+## My Basic info
+
+# Step 1: Home Section
+Name, profile picture, and short introduction.
+Career goals and professional identity.
+Download CV and Contact Me buttons.
+GitHub and LinkedIn links.
+
+#Step 2: About Me & Education
+Personal information and background.
+University, department, and educational qualifications.
+Academic achievements and career goals.
+University activities and experiences.
+
+#Step 3: Skills & Achievements
+Technical skills: HTML, CSS, MATLAB, and others.
+Skill categories: Programming, Web Development, and Engineering Tools.
+Certifications, awards, and achievements.
+Leadership and volunteer experience.
+
+#Step 4: Projects & Research
+Project images, descriptions, and details.
+Technology stack tags.
+Live Demo and GitHub Source Code links.
+Research papers, lab reports, and publications.
+Blog posts and technical articles.
+Step 5: Contact Section
+Email address and social media links.
+Contact form with name, email, and message fields.
+Contact Me button.
+Functional messaging using Formspree or EmailJS.
+
+#Step 6: Modern Design & Interactive Features
+Dark and Light Mode Toggle.
+Smooth scrolling animations.
+Responsive design for mobile, tablet, and desktop.
+Interactive skill badges and category filters.
+Project filtering by Web, Hardware, and Analysis.
+Custom favicon.
+Social media preview using Open Graph (OG) meta tags.
+
+#Step 7: Coding & Website Deployment
+HTML: Create the website structure.
+CSS: Design the layout, colors, and responsive interface.
+JavaScript: Add interactive features, theme switching, and filters.
+GitHub: Store and manage the source code.
+GitHub Pages: Publish the website online for free.
+
+# About Me section 
+Hello! I'm Md. Maruf Hossen, an undergraduate student pursuing a B.Sc. in Electrical & Electronic Engineering (EEE) at Jamalpur Science & Technology University, Bangladesh.
+
+I am passionate about electrical engineering, electronics, programming, and emerging technologies. I enjoy exploring engineering concepts, solving technical problems, and developing practical skills through academic coursework and hands-on projects.
+
+Currently, I am building my foundation in electrical circuits, electrical machines, electronics, MATLAB, and programming while continuously exploring opportunities to learn, innovate, and grow as an engineer.
+
+My Vision: To transform knowledge into practical solutions and contribute to a smarter, more sustainable technological future.
+
+# Address section
+Name: Md.Maruf Hossen
+University: Jamalpur Science & Technology University
+Department: Electrical & Electronic Engineering
+Academic Level: 2nd Year, 1st Semester
+Degree: B.Sc. in EEE
+Session: 2024–Present
+Email: mdmarufhossen995@gmail.com
+Phone: +880 1861197995
+Location: Jamalpur, Bangladesh
+
+## Follow this portfolio link and make portfolio for me as like
+# https://saidul-islam-portofolio.vercel.app/
+
+

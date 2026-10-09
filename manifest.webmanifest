@@ -1,0 +1,12 @@
+{
+  "name": "Md. Maruf Hossen — Portfolio",
+  "short_name": "Maruf Hossen",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#0b1220",
+  "background_color": "#0b1220",
+  "display": "browser",
+  "start_url": "./"
+}
