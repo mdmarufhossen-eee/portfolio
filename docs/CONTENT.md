@@ -15,9 +15,10 @@ All copy lives here first, then in `index.html` / `content/*.json`. Source: `bas
 | Session | 2024–Present |
 | Location | Jamalpur, Bangladesh |
 | Email | mdmarufhossen995@gmail.com |
-| Phone | +880 1861197995, **show only if owner approves** (see [SECURITY_AND_PRIVACY.md](SECURITY_AND_PRIVACY.md#public-contact-details)) |
+| Phone | +880 1861197995, approved for display as a `tel:` link in the contact section only (see [SECURITY_AND_PRIVACY.md](SECURITY_AND_PRIVACY.md#public-contact-details)) |
 | GitHub | TODO(owner) |
 | LinkedIn | TODO(owner) |
+| Facebook | TODO(owner): profile URL |
 | CV file | TODO(owner): `assets/cv/Md-Maruf-Hossen-CV.pdf` |
 | Profile photo | `maruf-image.jpeg` (477×606; upscale not possible, so use at ≤ 477 px wide or ask for a higher-resolution original) |
 
@@ -159,7 +160,7 @@ Priority order for the owner:
 1. ☐ Confirm moving ID documents out of this folder.
 2. ☐ GitHub and LinkedIn URLs.
 3. ☐ CV PDF.
-4. ☐ Decide: show phone number publicly? (recommended: no, use the form + email)
+4. ☐ Facebook profile URL.
 5. ☐ Confirm skills list and honest levels.
 6. ☐ At least one real project (title, summary, photo/screenshot, links).
 7. ☐ Certificates, awards, volunteer/leadership, university activities.

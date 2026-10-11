@@ -7,5 +7,14 @@
     "tags": ["HTML", "CSS", "JavaScript", "GitHub Pages"],
     "links": {},
     "year": 2026
+  },
+  {
+    "id": "transformer",
+    "title": "Step up Transformer",
+    "category": "Hardware",
+    "summary": "Working on a step-up transformer design for a high-voltage application, focusing on efficiency and thermal management.",
+    "tags": ["Electrical Engineering", "Power Electronics", "Transformer Design"],
+    "links": {},
+    "year": 2026
   }
 ]

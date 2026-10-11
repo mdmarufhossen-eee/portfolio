@@ -6,5 +6,7 @@
   { "name": "MATLAB", "category": "tools", "description": "Used in coursework for numerical computation and engineering analysis." },
   { "name": "Electrical Circuits", "category": "engineering", "description": "Core coursework: circuit analysis fundamentals." },
   { "name": "Electrical Machines", "category": "engineering", "description": "Core coursework: operating principles of electrical machines." },
-  { "name": "Electronics", "category": "engineering", "description": "Core coursework: electronic devices and circuits." }
+  { "name": "Electronics", "category": "engineering", "description": "Core coursework: electronic devices and circuits." },
+  { "name": "AutoCAD", "category": "tools", "description": "Used for creating technical drawings and schematics." }
+ 
 ]
