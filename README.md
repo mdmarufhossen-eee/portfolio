@@ -6,7 +6,8 @@ Personal portfolio of **Md. Maruf Hossen**, B.Sc. EEE student at Jamalpur Scienc
 
 ## Features (target)
 
-- Sections: Home, About & Education, Skills & Achievements, Projects & Research, Contact
+- Sections: Home, About & Education, Skills & Achievements, Projects & Research, Hobbies, Contact
+- Downloadable CV from the home section (`cv.pdf` in the repository root)
 - Dark / light theme with system preference and persistence
 - Project and skill filtering (Web, Hardware, Analysis)
 - Smooth, reduced-motion-aware scroll animations

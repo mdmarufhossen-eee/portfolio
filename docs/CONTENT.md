@@ -19,7 +19,7 @@ All copy lives here first, then in `index.html` / `content/*.json`. Source: `bas
 | GitHub | TODO(owner) |
 | LinkedIn | TODO(owner) |
 | Facebook | TODO(owner): profile URL |
-| CV file | TODO(owner): `assets/cv/Md-Maruf-Hossen-CV.pdf` |
+| CV file | `cv.pdf` (repository root; owner supplies the PDF) |
 | Profile photo | `maruf-image.jpeg` (477×606; upscale not possible, so use at ≤ 477 px wide or ask for a higher-resolution original) |
 
 ## Home
@@ -36,8 +36,13 @@ Wording follows the owner's hero mock-up (`hero-section.jpeg`):
 - **Primary button:** Explore My Journey ↗ (scrolls to #about)
 - **Intro (draft, owner to approve):** I'm passionate about electrical engineering, electronics and programming. I turn what I learn into practical solutions through coursework and hands-on projects.
 - **Career goal / identity (draft):** Aspiring electrical engineer building a strong foundation in circuits, machines, electronics and MATLAB, and growing toward innovative, sustainable technology.
-- **Buttons:** Explore My Journey · Contact Me, plus Download CV (secondary, below the card or in the header)
+- **Buttons:** Explore My Journey · Contact Me · Download my CV (secondary; opens and downloads `cv.pdf` from the repository root)
 - **Social:** GitHub · LinkedIn
+
+## Hobbies
+
+- **Traveling:** The owner enjoys traveling and exploring places across Bangladesh.
+- Places visited: TODO(owner)
 
 ## About Me
 

@@ -19,6 +19,9 @@ function setupLinks() {
   if (cv && config.cvPath) {
     cv.href = config.cvPath;
     cv.hidden = false;
+    cv.addEventListener("click", () => {
+      window.open(cv.href, "_blank", "noopener,noreferrer");
+    });
   }
   const year = document.getElementById("year");
   if (year) year.textContent = new Date().getFullYear();

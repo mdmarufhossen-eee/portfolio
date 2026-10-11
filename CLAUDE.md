@@ -6,7 +6,7 @@ Guidance for Claude Code (and any human contributor) working in this repository.
 
 A static, single-page personal portfolio for **Md. Maruf Hossen**, a B.Sc. EEE student at Jamalpur Science & Technology University (JSTU), Bangladesh. It is modelled on the structure of the reference site `https://saidul-islam-portofolio.vercel.app/` (EEE student portfolio). Take the section flow from the reference, not its code or copy. The hero look is fixed by the owner's mock-up `hero-section.jpeg` (dark navy, teal accent). Hosting is GitHub Pages.
 
-Sections, in order: **Home → About & Education → Skills & Achievements → Projects & Research → Contact**. Cross-cutting: dark/light theme, scroll animations, responsive layout, project filtering, SEO/Open Graph.
+Sections, in order: **Home → About & Education → Skills & Achievements → Projects & Research → Hobbies → Contact**. Cross-cutting: dark/light theme, scroll animations, responsive layout, project filtering, SEO/Open Graph.
 
 ## Stack (fixed — do not add frameworks)
 

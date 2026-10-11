@@ -4,5 +4,5 @@ export const config = {
   email: "mdmarufhossen995@gmail.com",
   github: "",
   linkedin: "",
-  cvPath: "", // e.g. "assets/cv/Md-Maruf-Hossen-CV.pdf"
+  cvPath: "cv.pdf",
 };
